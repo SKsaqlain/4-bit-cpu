@@ -1,2 +1,2 @@
 # 4-bit-cpu
-Building a 4-bit CPU with Logisim tol
+Building a simple 4-bit CPU with Logisim tool
